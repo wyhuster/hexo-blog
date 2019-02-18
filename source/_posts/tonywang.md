@@ -1,21 +1,17 @@
 ---
-title: tonywang
+title: 写博客的原因
 date: 2019-02-14 13:35:11
-tags: -new, -android
-categories: -android
+categories: 
+- 随笔
 ---
-hello tony~~
 
-{% blockquote David Levithan, Wide Awake %}
-Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.
-{% endblockquote %}
+&emsp;&emsp;从去年开始大前端风生水起，唱衰App原生开发的声音越来越多，“{% link 移动开发的罗曼蒂克消亡史 https://mp.weixin.qq.com/s/2xBnlmESZjq7UTtcfzqhcA %}”之类的文章能引起很大的反响，App原生开发者或多或少都出现了焦虑感。团队内去年的关键词是“模块化”，而今年变成了“跨平台”。所以不管是外部环境，还是内部因素，学习跨平台开发，了解前端知识都是每个App原生开发者需要及时跟进掌握。
+<!-- more -->
+&emsp;&emsp;近期我们App计划快速推进React Native和离线web的使用场景，提高跨平台开发的规模。在学习RN和调研离线web动态能力的过程中，我意识到非常有必要记录下学习的过程。因为毕业三四年了，技术上感觉没有一点积累，不知道是真的没有成长，还是不记得成长的过程。所以得有个地方记录成长，我打开了14年还在学校的时候弄的处在初始阶段的github博客。。。然后重新百度、谷歌了一把博客的搭建方法，选择使用hexo进行博客的管理和部署.
 
-hello world
-{% codeblock %}
-alert('Hello World!');
-{% endcodeblock %}
+&emsp;&emsp;为什么意识到要写博客呢？总结下来有三点吧：
+1. 记录学习、成长的过程
+2. 锻炼把需求、技术架构讲清楚、总结的能力
+3. 技术的分享和交流
 
-just a test
-{% codeblock Array.map %}
-array.map(callback[, thisArg])
-{% endcodeblock %}
+&emsp;&emsp;***内心的焦虑、工作的需要，今年特别缺知识，今年是需要大量学习的一年。希望在此记录我的学习，见证我的成长。***

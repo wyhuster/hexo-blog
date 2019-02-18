@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: TonyWang的博客
 subtitle:
 description:
 keywords:
-author: John Doe
+author: TonyWang
+since: 2019
 language:
 timezone:
 
@@ -78,4 +79,13 @@ theme: sky
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/wyhuster/wyhuster.github.io
+  message: 修改github链接；添加微博、知乎；添加“阅读全文”
+
+# Social Media Info
+## Docs: https://ijinxin.github.io/blog/2018/10/29/hexo-theme-sky%E6%8C%87%E5%8D%97/
+github_username: wyhuster
+weibo_username: u/2199212424
+zhihu_username: huster-wy
+
